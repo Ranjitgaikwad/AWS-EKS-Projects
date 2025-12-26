@@ -7,6 +7,11 @@ description: Learn AWS Load Balancer Controller - Ingress Basics
 - Discuss about the Application Architecture which we are going to deploy
 
 
+
+<img width="991" height="522" alt="image" src="https://github.com/user-attachments/assets/0d7738f3-0aa1-41f1-bdce-09ba112f8dde" />
+
+
+
 ## Step-02: Review App1 Deployment kube-manifest
 - **File Location:** `01-kube-manifests-default-backend/01-Nginx-App1-Deployment-and-NodePortService.yml`
 ```yaml
