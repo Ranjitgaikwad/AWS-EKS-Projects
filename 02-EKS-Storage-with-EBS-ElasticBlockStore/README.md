@@ -1,3 +1,6 @@
+<img width="973" height="516" alt="image" src="https://github.com/user-attachments/assets/53a49aef-2bca-4964-9fc9-b99dfc0e54b6" />
+
+
 # AWS EKS Storage
 
 ## AWS EBS CSI Driver
