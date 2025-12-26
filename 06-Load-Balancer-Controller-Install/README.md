@@ -8,7 +8,14 @@ description: Learn to install AWS Load Balancer Controller for Ingress Implement
 1. Create IAM Policy and make a note of Policy ARN
 2. Create IAM Role and k8s Service Account and bound them together
 3. Install AWS Load Balancer Controller using HELM3 CLI
-4. Understand IngressClass Concept and create a default Ingress Class 
+4. Understand IngressClass Concept and create a default Ingress Class
+
+
+
+<img width="913" height="504" alt="image" src="https://github.com/user-attachments/assets/872ce339-8b43-4ea3-9235-c4fc04162521" />
+
+
+
 
 ## Step-01: Pre-requisites
 ### Pre-requisite-1: eksctl & kubectl Command Line Utility
