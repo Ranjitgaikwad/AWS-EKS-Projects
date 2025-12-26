@@ -10,6 +10,12 @@ description: Learn AWS Load Balancer Controller - Ingress SSL
 - Deploy the manifests and test
 - Clean-Up
 
+  
+
+<img width="980" height="521" alt="image" src="https://github.com/user-attachments/assets/7fcaf74f-a46e-4631-91d4-018b1b5db70b" />
+
+
+
 ## Step-02: Pre-requisite - Register a Domain in Route53 (if not exists)
 - Goto Services -> Route53 -> Registered Domains
 - Click on **Register Domain**
