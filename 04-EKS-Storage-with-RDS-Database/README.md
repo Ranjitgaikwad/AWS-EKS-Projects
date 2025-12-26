@@ -1,4 +1,5 @@
 # Use RDS Database for Workloads running on AWS EKS Cluster
+<img width="946" height="513" alt="image" src="https://github.com/user-attachments/assets/387e6a92-d2f0-4114-b58a-995bea75dae1" />
 
 ## Step-01: Introduction
 - What are the problems with MySQL Pod & EBS CSI? 
