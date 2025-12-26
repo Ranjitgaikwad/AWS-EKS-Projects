@@ -10,7 +10,15 @@ description: Learn AWS Load Balancer Controller - Ingress Context Path Based Rou
   - /app2/* - should go to app1-nginx-nodeport-service
   - /*    - should go to  app3-nginx-nodeport-service
 - As part of this process, this respective annotation `alb.ingress.kubernetes.io/healthcheck-path:` will be moved to respective application NodePort Service. 
-- Only generic settings will be present in Ingress manifest annotations area `04-ALB-Ingress-ContextPath-Based-Routing.yml`  
+- Only generic settings will be present in Ingress manifest annotations area `04-ALB-Ingress-ContextPath-Based-Routing.yml`
+
+
+<img width="1011" height="507" alt="image" src="https://github.com/user-attachments/assets/8d96d57e-66a0-4136-a88a-97d0842974a1" />
+
+
+<img width="991" height="526" alt="image" src="https://github.com/user-attachments/assets/aae092fa-aa13-469f-815e-aff17d71f730" />
+
+
 
 
 ## Step-02: Review Nginx App1, App2 & App3 Deployment & Service
